@@ -8,7 +8,7 @@ Library  SeleniumLibrary
 
 User must sign in to check out
   [Documentation]  This is some basic info about the test
-  [Tags]  Acceptance
+  [Tags]  Acceptance  Smoke
   Open Browser  http://newtours.demoaut.com/mercurysignon.php  Chrome
   Sleep  3s
   Input Text  //*[contains(@name,'userName')]  dipshn@gmail.com
