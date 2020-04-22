@@ -9,7 +9,7 @@ Library  SeleniumLibrary
 User must sign in to check out
   [Documentation]  This is some basic info about the test
 
-  [Tags]  Acceptance  Smoke  MS
+  [Tags]  Acceptance  Smoke  MS API Auto
 
   [Tags]  Acceptance
   Open Browser  http://newtours.demoaut.com/mercurysignon.php  Chrome
